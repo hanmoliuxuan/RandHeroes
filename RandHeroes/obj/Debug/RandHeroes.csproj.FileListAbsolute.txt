@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\bin\Debug\RandHeroes.exe.config
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\bin\Debug\RandHeroes.exe
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\bin\Debug\RandHeroes.pdb
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.Form1.resources
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.exe
+C:\Users\Administrator\Desktop\RandHeroes\RandHeroes\obj\Debug\RandHeroes.pdb
